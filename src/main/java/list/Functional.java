@@ -1,5 +1,5 @@
 package list;
 
-public class Functional {
+class Functional {
 
 }

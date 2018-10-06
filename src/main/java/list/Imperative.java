@@ -1,5 +1,5 @@
 package list;
 
-public class Imperative {
+class Imperative {
 
 }
